@@ -1,0 +1,21 @@
+.cuadro {
+	display: inline-block;
+	background-color: #FFBF00;
+	height: 200px;
+	width: 200px;
+}
+
+.ventanita {
+	display:inline-block;
+	background-color: #013ADF;
+	height: 50px;
+	width: 50px;
+	margin-left: 15%;
+	margin-top: 10%;
+}
+
+.columna {
+	column-count: 5;
+	column-gap: 0%;
+
+}
